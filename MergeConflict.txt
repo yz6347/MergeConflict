@@ -1,3 +1,4 @@
 Jane and Joe
 John goes to the hill
 Blue Hat, Purple Hat.
+Discard original text file
